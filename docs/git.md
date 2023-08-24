@@ -1,10 +1,11 @@
-
-
-
 ---
 share: true
 ---
 
 
-Änderung darunter
-taucht die auf?
+Mit folgendem frontmatter command werden die notes an git gepusht:
+
+**share: true**
+
+
+
