@@ -11,7 +11,8 @@ attachment:
 ---  
 ---  
 1test 123  
-  
+
+  docs/01 Inbox/Pasted image 20240513095734.jpg
 ![](file:///D:%5CObsidian%5C01%20Inbox%5CPasted%20image%2020240513095734.png)  
 ![](file:///D:%5CObsidian%5C01%20Inbox%5CPasted%20image%2020240513095734.jpg)  
   
