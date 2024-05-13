@@ -4,8 +4,8 @@ share: true
 ---  
 3  
   
-![[Pasted image 20240513095734.png|Pasted image 20240513095734.png]]  
-![[Pasted image 20240513095734.jpg|Pasted image 20240513095734.jpg]]  
+![[Pasted image 20240513095734.png]]  
+![[Pasted image 20240513095734.jpg]]  
   
 # Dänemark  
   
@@ -13,7 +13,7 @@ share: true
   
 https://www.lalandia.dk/de-de/billund/auf-entdeckung-gehen/monky-tonky-land  
   
-![[Pasted image 20240513095734.webp|Pasted image 20240513095734.webp]]  
+[[Pasted image 20240513095734.webp|Pasted image 20240513095734.webp]]  
   
 **Kosten:**  
 ca. 650 € für drei Nächte Unterkunft etc.  
