@@ -1,13 +1,9 @@
 ---  
 share: true  
-image: Pasted image 20240513095734.png  
 embed:  
   send: true  
-  remove: keep  
-  char: ->  
 attachment:  
   send: true  
-  folder:   
 ---  
   
 # Dänemark  
