@@ -1,9 +1,16 @@
 ---  
 share: true  
 image: Pasted image 20240513095734.png  
+embed:  
+  send: true  
+  remove: keep  
+  char: ->  
+attachment:  
+  send: true  
+  folder:   
 ---  
 ---  
-4  
+1test 123  
   
 ![[Pasted image 20240513095734.png|Pasted image 20240513095734.png]]  
 ![[Pasted image 20240513095734.jpg|Pasted image 20240513095734.jpg]]  
