@@ -10,7 +10,7 @@ embed:
   
 https://www.lalandia.dk/de-de/billund/auf-entdeckung-gehen/monky-tonky-land  
   
-![Pasted image 20240513095734.webp](../Pasted%20image%2020240513095734.webp)  
+![200](../Pasted%20image%2020240513095734.webp)  
   
 **Kosten:**  
 ca. 650 € für drei Nächte Unterkunft etc.  
