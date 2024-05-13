@@ -1,8 +1,9 @@
 ---  
 share: true  
+image: Pasted image 20240513095734.png  
 ---  
 ---  
-3  
+4  
   
 ![[Pasted image 20240513095734.png|Pasted image 20240513095734.png]]  
 ![[Pasted image 20240513095734.jpg|Pasted image 20240513095734.jpg]]  
