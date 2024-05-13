@@ -10,7 +10,7 @@ embed:
   
 https://www.lalandia.dk/de-de/billund/auf-entdeckung-gehen/monky-tonky-land  
   
-![200](../Pasted%20image%2020240513095734.webp)  
+![Pasted image 20240513095734.webp](./Pasted%20image%2020240513095734.webp)  
   
 **Kosten:**  
 ca. 650 € für drei Nächte Unterkunft etc.  
@@ -35,7 +35,7 @@ Wenn Ihr Urlaub in Lalandia bucht, ist dies der perfekte Rahmen für eine vergn�
       
 - Parken am Ferienhaus  
   
-![Pasted image 20240513100323.webp](../Pasted%20image%2020240513100323.webp)  
+![Pasted image 20240513100323.webp](./Pasted%20image%2020240513100323.webp)  
       
   
 ---  
@@ -45,7 +45,7 @@ Wenn Ihr Urlaub in Lalandia bucht, ist dies der perfekte Rahmen für eine vergn�
 https://www.lalandia.dk/de-de/s%C3%B8ndervig/angebote-in-den-schulurlaub/sommerurlaub#539caba302334a4abc3b3d8745dfb7a9  
 https://www.lalandia.dk/de-de/s%C3%B8ndervig/auf-entdeckung-gehen/monky-tonky-land  
   
-![Pasted image 20240513095819.webp](../Pasted%20image%2020240513095819.webp)  
+![Pasted image 20240513095819.webp](./Pasted%20image%2020240513095819.webp)  
   
 **Kosten:**  
 ca. 335 € für drei Nächte Unterkunft etc.  
@@ -75,7 +75,7 @@ Wenn Ihr Urlaub in Lalandia bucht, ist dies der perfekte Rahmen für eine vergn�
 - WLAN im Ferienhaus, damit für Unterhaltung gesorgt ist, wenn sich die Familie auf dem Sofa versammelt  
       
 - Parken am Ferienhaus  
-![Pasted image 20240513100201.webp](../Pasted%20image%2020240513100201.webp)  
+![Pasted image 20240513100201.webp](./Pasted%20image%2020240513100201.webp)  
   
 # Düsseldorf - Köln  
   
